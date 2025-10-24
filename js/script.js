@@ -12,7 +12,7 @@ const ctx = canvas.getContext("2d");
 const loading = document.getElementById("loading");
 
 // PDF Path - GANTI DENGAN NAMA FILE PDF ANDA
-const pdfPath = "Buku DatAction.pdf";
+const pdfPath = "Buku DatAction3.pdf";
 
 // Touch/Swipe Variables
 let touchStartX = 0;
